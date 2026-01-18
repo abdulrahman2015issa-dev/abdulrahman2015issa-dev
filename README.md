@@ -4,9 +4,11 @@
 <h3>Python Developer</h3>
 
 <p>
-عبدالرحمن عيسي منشاوي إبراهيم<br>
-Focused on clean code, problem solving, and real-world Python development
+<span>عبدالرحمن عيسي منشاوي إبراهيم</span><br>
+Focused on clean, efficient, and maintainable Python code
 </p>
+
+<img src="https://media.giphy.com/media/L0lWnPxPckQQI/giphy.gif" width="50%" alt="Coding GIF"/>
 
 </div>
 
@@ -14,36 +16,36 @@ Focused on clean code, problem solving, and real-world Python development
 
 ## 👨‍💻 About Me
 
-I am a **Python Developer** with a strong interest in writing clean, readable, and efficient code.  
-I focus on **problem solving**, understanding fundamentals, and building practical Python programs.
+I am a **Python Developer** passionate about building clean, efficient, and well-structured code.  
+I focus on **problem solving**, learning continuously, and developing practical Python projects.
 
-- 🔹 Language: **Python**
-- 🔹 Core Skills: Logic, OOP, Problem Solving
-- 🔹 Goal: Grow into a professional software developer
-
----
-
-## 🛠 Technical Skills
-
-- **Programming Language:** Python  
-- **Concepts:**  
-  - Object-Oriented Programming (OOP)  
-  - Data Types & Control Flow  
-  - Functions & Modules  
-  - File Handling  
-- **Tools:**  
-  - Git & GitHub  
-  - Linux Basics  
-  - VS Code  
+- 🔹 **Language:** Python  
+- 🔹 **Core Skills:** Logic, OOP, Problem Solving  
+- 🔹 **Goal:** To become a professional software developer
 
 ---
 
-## 🧠 What I’m Currently Learning
+## 🛠 Skills
 
-- Advanced Python concepts  
-- Writing maintainable code  
-- Solving algorithmic problems  
-- Building small real-world projects  
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![OOP](https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Logic-success?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 🧩 Current Learning
+
+- Advanced Python  
+- Object-Oriented Programming (OOP)  
+- Small real-world Python projects  
+- Algorithmic thinking & problem solving  
 
 ---
 
