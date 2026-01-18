@@ -8,7 +8,7 @@
 Focused on clean, efficient, and maintainable Python code
 </p>
 
-<img src="https://media.giphy.com/media/L0lWnPxPckQQI/giphy.gif" width="50%" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50%" alt="Coding GIF"/>
 
 </div>
 
@@ -16,8 +16,8 @@ Focused on clean, efficient, and maintainable Python code
 
 ## 👨‍💻 About Me
 
-I am a **Python Developer** passionate about building clean, efficient, and well-structured code.  
-I focus on **problem solving**, learning continuously, and developing practical Python projects.
+I am a **Python Developer** passionate about writing **clean, readable, and efficient code**.  
+I focus on **problem solving**, learning continuously, and building practical Python projects.
 
 - 🔹 **Language:** Python  
 - 🔹 **Core Skills:** Logic, OOP, Problem Solving  
@@ -40,7 +40,7 @@ I focus on **problem solving**, learning continuously, and developing practical 
 
 ---
 
-## 🧩 Current Learning
+## 🧩 Currently Learning
 
 - Advanced Python  
 - Object-Oriented Programming (OOP)  
