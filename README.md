@@ -1,63 +1,28 @@
-<div align="center">
+# 👋 Hi, I'm Abdulrahman Issa
+### Python Developer | Problem Solver
 
-<h1>Abdulrahman Issa</h1>
-<h3>Python Developer</h3>
-
-<p>
-<span>عبدالرحمن عيسي منشاوي إبراهيم</span><br>
-Focused on clean, efficient, and maintainable Python code
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman2015issa-dev&show_icons=true&theme=tokyonight" alt="Stats" />
 </p>
 
-<img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50%" alt="Coding GIF"/>
+---
 
-</div>
+### 👨‍💻 About Me
+I’m a Python developer focused on writing **clean, readable, and efficient code**. My journey is driven by a passion for problem-solving and building real-world applications that make a difference.
+
+* 🚀 **Current Focus:** Deep diving into Advanced Python & Backend Patterns.
+* 💡 **Philosophy:** Logic and OOP are the core of great software.
+* 🎯 **Goal:** To evolve into a full-scale Professional Software Architect.
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Python Developer** passionate about writing **clean, readable, and efficient code**.  
-I focus on **problem solving**, learning continuously, and building practical Python projects.
-
-- 🔹 **Language:** Python  
-- 🔹 **Core Skills:** Logic, OOP, Problem Solving  
-- 🔹 **Goal:** To become a professional software developer
-
----
-
-## 🛠 Skills
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![OOP](https://img.shields.io/badge/OOP-Python-blue?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Logic-success?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🧩 Currently Learning
-
-- Advanced Python  
-- Object-Oriented Programming (OOP)  
-- Small real-world Python projects  
-- Algorithmic thinking & problem solving  
-
----
-
-## 🐍 Sample Python Code
-
-```python
-class Developer:
-    def __init__(self, name):
-        self.name = name
-
-    def introduce(self):
-        return f"Hello, I am {self.name}, a Python Developer."
-
-dev = Developer("Abdulrahman Issa")
-print(dev.introduce())
+### 📬 Connect with me
+[LinkedIn](رابط_حسابك) | [Email](mailto:ايميلك)
