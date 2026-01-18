@@ -2,8 +2,8 @@
 ### Python Developer | OOP Enthusiast | Problem Solver
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman2015issa-dev&show_icons=true&theme=tokyonight" alt="Abdulrahman's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman2015issa-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman2015issa-dev&show_icons=true&theme=tokyonight" alt="Abdulrahman's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman2015issa-dev&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
