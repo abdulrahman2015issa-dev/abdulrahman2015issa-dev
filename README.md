@@ -1,56 +1,45 @@
 # 👋 Hi, I'm Abdulrahman Issa
 
-### Python Developer | OOP Enthusiast | Problem Solver
+**Python Developer | OOP Enthusiast | Problem Solver**
 
-<p align="left">
-  <a href="mailto:abdulrahman2015issa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulrahman-issa-b080773a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-abdulrahman2015issa%40gmail.com-red?style=flat-square)](mailto:abdulrahman2015issa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman-blue?style=flat-square)](https://www.linkedin.com/in/abdulrahman-issa-b080773a7/)
 
 ---
 
-### 👨‍💻 About Me
-I am a **Python Developer** dedicated to crafting clean, readable, and efficient code. I have a deep interest in **Object-Oriented Programming (OOP)** and building scalable backend logic.
+## 🧑‍💻 About Me
 
-* 🚀 **Currently Focusing on:** Advanced Python patterns and Backend development.
-* 💡 **Philosophy:** "Code is poetry when it's clean and logical."
-* 🎯 **Goal:** To evolve into a Professional Software Architect.
+I am a Python Developer dedicated to crafting clean, readable, and efficient code.  
+I have a deep interest in **Object-Oriented Programming (OOP)** and building scalable backend logic.
 
----
-
-### 📊 GitHub Ecosystem
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulrahman2015issa-dev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Abdulrahman's Stats" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman2015issa-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</p>
+- 🚀 **Currently Focusing on:** Advanced Python patterns & Backend development  
+- 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."  
+- 🎯 **Goal:** Evolve into a Professional Software Architect  
 
 ---
 
-### 🛠 Tech Stack & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+## 🛠️ Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📚 Learning Roadmap
-| Field | Technologies | Status |
-| :--- | :--- | :--- |
-| **Backend** | Python, FastAPI | 🛠 Learning |
-| **Architecture** | OOP, Design Patterns | 🎯 Focused |
-| **Databases** | SQL, PostgreSQL | 📚 Exploring |
+## 📚 Learning Roadmap
+
+| Field         | Technologies             | Status        |
+|---------------|-------------------------|---------------|
+| Backend       | Python, FastAPI         | ⚒️ Learning   |
+| Architecture  | OOP, Design Patterns    | 🎯 Focused    |
+| Databases     | SQL, PostgreSQL         | 🔍 Exploring  |
 
 ---
 
-### 🐍 Professional Snippet
+## 💻 Professional Snippet
+
 ```python
 class Developer:
     def __init__(self, name: str, passion: str):
