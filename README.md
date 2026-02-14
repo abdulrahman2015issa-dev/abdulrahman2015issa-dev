@@ -18,6 +18,15 @@ I have a deep interest in **Object-Oriented Programming (OOP)** and building sca
 
 ---
 
+## 🚀 Featured Projects
+
+### 🐍 [Python Core Basics](https://github.com/abdulrahman2015issa-dev/Python-Core-Basics)
+A comprehensive repository covering the fundamental building blocks of Python. 
+- **Focus:** Basic Syntax, Data Types, and Logic Implementation.
+- **Goal:** Building a solid foundation for advanced backend development.
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
