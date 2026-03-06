@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulrahman Issa
 
 <p align="center">
-  <img src="رابط_الصورة_هنا" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
+  <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.png" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
 </p>
 
 **Python Developer | Cybersecurity & Ethical Hacking | OOP Enthusiast**
@@ -17,7 +17,7 @@ I am a 20-year-old Python Developer dedicated to crafting clean, readable, and e
 I have a deep interest in **Object-Oriented Programming (OOP)**, building scalable backend logic, and **Cybersecurity**.
 
 - 🚀 **Currently Focusing on:** Advanced Python patterns, Backend development, and Ethical Hacking.  
-- 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."  
+- 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."
 - 🎯 **Goal:** Evolve into a Professional Software Architect.  
 
 ---
@@ -25,19 +25,17 @@ I have a deep interest in **Object-Oriented Programming (OOP)**, building scalab
 ## 🛠️ Tech Stack & Skills
 
 ### 🌐 Frontend & Core Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Languages:** HTML, CSS, JavaScript.
+- **Focus:** Building responsive and interactive interfaces.
 
 ### ⚙️ Backend & Logic
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=api&logoColor=white)
+- **Languages & Frameworks:** Python, Django.
+- **Core Skills:** APIs, Object-Oriented Programming (OOP).
+- **Databases:** Relational database management and optimization.
 
 ### 🛡️ Security & Performance
-- **Security:** Ethical Hacking & Secure Coding Practices.
-- **Performance:** Database Optimization & Code Efficiency.
-- **Tools:** Git, Testing frameworks, and Deployment workflows.
+- **Security:** Ethical Hacking and Security Best Practices.
+- **Operations:** Git, Testing, Performance optimization, and Deployment skills.
 
 ---
 
