@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Abdulrahman Issa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.jpg" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
+  <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.png" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
 </p>
 
 **Python Developer | Backend Enthusiast | Problem Solver**
@@ -13,10 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-I am a 20-year-old Python Developer focused on building clean, efficient, and logical backend systems.
-I have a deep interest in **Object-Oriented Programming (OOP)** and developing scalable software architecture.
+I am a Python Developer dedicated to crafting clean, readable, and efficient code.
+I have a deep interest in **Object-Oriented Programming (OOP)** and building scalable backend logic.
 
-- 🚀 **Currently Focusing on:** Advanced Python, OOP, and Backend Architecture.
+- 🚀 **Currently Focusing on:** Advanced Python patterns, OOP, and Backend Architecture.
 - 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."
 - 🎯 **Goal:** Evolve into a Professional Software Architect.
 
@@ -24,12 +24,13 @@ I have a deep interest in **Object-Oriented Programming (OOP)** and developing s
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend & Design
-- **Technologies:** HTML, CSS, JavaScript.
+### 🌐 Frontend & Core Web
+- **Languages:** HTML, CSS, JavaScript.
 
-### ⚙️ Backend & Data
-- **Core:** Python, APIs, Databases.
-- **Logic:** Object-Oriented Programming (OOP).
+### ⚙️ Backend & Logic
+- **Languages & Frameworks:** Python, Django.
+- **Core Skills:** APIs, Object-Oriented Programming (OOP).
+- **Databases:** Relational database management and optimization.
 
 ### 🚀 Optimization & Workflow
 - **Performance:** Writing efficient and optimized code.
@@ -49,7 +50,7 @@ A comprehensive repository covering the fundamental building blocks of Python.
 
 | Field           | Technologies                     | Status        |
 |-----------------|---------------------------------|---------------|
-| Backend         | Python, APIs, Databases         | ⚒️ Learning   |
+| Backend         | Python, Django, APIs            | ⚒️ Learning   |
 | Architecture    | OOP, Design Patterns            | 🎯 Focused    |
 | Operations      | Git, Testing, Deployment        | 📈 Improving  |
 
