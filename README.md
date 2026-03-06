@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Abdulrahman Issa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.png" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
+  <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.jpg" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
 </p>
 
-**Python Developer | Cybersecurity & Ethical Hacking | OOP Enthusiast**
+**Python Developer | Backend Enthusiast | Problem Solver**
 
 [![Email](https://img.shields.io/badge/Email-abdulrahman2015issa%40gmail.com-red?style=flat-square)](mailto:abdulrahman2015issa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman-blue?style=flat-square)](https://www.linkedin.com/in/abdulrahman-issa-b080773a7/)
@@ -13,10 +13,10 @@
 
 ## 🧑‍💻 About Me
 
-I am a 20-year-old Python Developer dedicated to crafting clean, readable, and efficient code.
-I have a deep interest in **Object-Oriented Programming (OOP)**, building scalable backend logic, and **Cybersecurity**.
+I am a 20-year-old Python Developer focused on building clean, efficient, and logical backend systems.
+I have a deep interest in **Object-Oriented Programming (OOP)** and developing scalable software architecture.
 
-- 🚀 **Currently Focusing on:** Advanced Python patterns, Backend development, and Ethical Hacking.
+- 🚀 **Currently Focusing on:** Advanced Python, OOP, and Backend Architecture.
 - 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."
 - 🎯 **Goal:** Evolve into a Professional Software Architect.
 
@@ -24,18 +24,16 @@ I have a deep interest in **Object-Oriented Programming (OOP)**, building scalab
 
 ## 🛠️ Tech Stack & Skills
 
-### 🌐 Frontend & Core Web
-- **Languages:** HTML, CSS, JavaScript.
-- **Focus:** Building responsive and interactive interfaces.
+### 🌐 Frontend & Design
+- **Technologies:** HTML, CSS, JavaScript.
 
-### ⚙️ Backend & Logic
-- **Languages & Frameworks:** Python, Django.
-- **Core Skills:** APIs, Object-Oriented Programming (OOP).
-- **Databases:** Relational database management and optimization.
+### ⚙️ Backend & Data
+- **Core:** Python, APIs, Databases.
+- **Logic:** Object-Oriented Programming (OOP).
 
-### 🛡️ Security & Performance
-- **Security:** Ethical Hacking and Security Best Practices.
-- **Operations:** Git, Testing, Performance optimization, and Deployment skills.
+### 🚀 Optimization & Workflow
+- **Performance:** Writing efficient and optimized code.
+- **Tools:** Git, Testing, Security, Deployment.
 
 ---
 
@@ -44,7 +42,6 @@ I have a deep interest in **Object-Oriented Programming (OOP)**, building scalab
 ### 🐍 [Python Core Basics](https://github.com/abdulrahman2015issa-dev/Python-Core-Basics)
 A comprehensive repository covering the fundamental building blocks of Python.
 - **Focus:** Basic Syntax, Data Types, and Logic Implementation.
-- **Goal:** Building a solid foundation for advanced backend development.
 
 ---
 
@@ -52,10 +49,9 @@ A comprehensive repository covering the fundamental building blocks of Python.
 
 | Field           | Technologies                     | Status        |
 |-----------------|---------------------------------|---------------|
-| Backend         | Python, Django, APIs            | ⚒️ Learning   |
+| Backend         | Python, APIs, Databases         | ⚒️ Learning   |
 | Architecture    | OOP, Design Patterns            | 🎯 Focused    |
-| Security        | Ethical Hacking, Security Audits| 🔍 Exploring  |
-| Databases       | SQL, Performance Tuning         | 📈 Improving  |
+| Operations      | Git, Testing, Deployment        | 📈 Improving  |
 
 ---
 
@@ -71,5 +67,5 @@ class Developer:
         return f"Hello, I'm {self.name}. I turn logic into {self.passion}!"
 
 if __name__ == "__main__":
-    me = Developer("Abdulrahman Issa", "Efficient & Secure Code")
+    me = Developer("Abdulrahman Issa", "Efficient Code")
     print(me.introduce())
