@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Abdulrahman Issa
 
-**Python Developer | OOP Enthusiast | Problem Solver**
+<p align="center">
+  <img src="رابط_الصورة_هنا" alt="Abdulrahman Issa - Cyber Era Manga" width="100%">
+</p>
+
+**Python Developer | Cybersecurity & Ethical Hacking | OOP Enthusiast**
 
 [![Email](https://img.shields.io/badge/Email-abdulrahman2015issa%40gmail.com-red?style=flat-square)](mailto:abdulrahman2015issa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrahman-blue?style=flat-square)](https://www.linkedin.com/in/abdulrahman-issa-b080773a7/)
@@ -9,12 +13,31 @@
 
 ## 🧑‍💻 About Me
 
-I am a Python Developer dedicated to crafting clean, readable, and efficient code.  
-I have a deep interest in **Object-Oriented Programming (OOP)** and building scalable backend logic.
+I am a 20-year-old Python Developer dedicated to crafting clean, readable, and efficient code.  
+I have a deep interest in **Object-Oriented Programming (OOP)**, building scalable backend logic, and **Cybersecurity**.
 
-- 🚀 **Currently Focusing on:** Advanced Python patterns & Backend development  
+- 🚀 **Currently Focusing on:** Advanced Python patterns, Backend development, and Ethical Hacking.  
 - 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."  
-- 🎯 **Goal:** Evolve into a Professional Software Architect  
+- 🎯 **Goal:** Evolve into a Professional Software Architect.  
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🌐 Frontend & Core Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Logic
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=api&logoColor=white)
+
+### 🛡️ Security & Performance
+- **Security:** Ethical Hacking & Secure Coding Practices.
+- **Performance:** Database Optimization & Code Efficiency.
+- **Tools:** Git, Testing frameworks, and Deployment workflows.
 
 ---
 
@@ -27,23 +50,14 @@ A comprehensive repository covering the fundamental building blocks of Python.
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
 ## 📚 Learning Roadmap
 
-| Field         | Technologies             | Status        |
-|---------------|-------------------------|---------------|
-| Backend       | Python, FastAPI         | ⚒️ Learning   |
-| Architecture  | OOP, Design Patterns    | 🎯 Focused    |
-| Databases     | SQL, PostgreSQL         | 🔍 Exploring  |
+| Field           | Technologies                     | Status        |
+|-----------------|---------------------------------|---------------|
+| Backend         | Python, Django, APIs            | ⚒️ Learning   |
+| Architecture    | OOP, Design Patterns            | 🎯 Focused    |
+| Security        | Ethical Hacking, Security Audits| 🔍 Exploring  |
+| Databases       | SQL, Performance Tuning         | 📈 Improving  |
 
 ---
 
@@ -59,5 +73,5 @@ class Developer:
         return f"Hello, I'm {self.name}. I turn logic into {self.passion}!"
 
 if __name__ == "__main__":
-    me = Developer("Abdulrahman Issa", "Efficient Code")
+    me = Developer("Abdulrahman Issa", "Efficient & Secure Code")
     print(me.introduce())
