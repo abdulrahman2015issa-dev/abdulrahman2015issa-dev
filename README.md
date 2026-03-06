@@ -13,12 +13,12 @@
 
 ## 🧑‍💻 About Me
 
-I am a 20-year-old Python Developer dedicated to crafting clean, readable, and efficient code.  
+I am a 20-year-old Python Developer dedicated to crafting clean, readable, and efficient code.
 I have a deep interest in **Object-Oriented Programming (OOP)**, building scalable backend logic, and **Cybersecurity**.
 
-- 🚀 **Currently Focusing on:** Advanced Python patterns, Backend development, and Ethical Hacking.  
+- 🚀 **Currently Focusing on:** Advanced Python patterns, Backend development, and Ethical Hacking.
 - 🧠 **Philosophy:** "Code is poetry when it’s clean and logical."
-- 🎯 **Goal:** Evolve into a Professional Software Architect.  
+- 🎯 **Goal:** Evolve into a Professional Software Architect.
 
 ---
 
@@ -42,7 +42,7 @@ I have a deep interest in **Object-Oriented Programming (OOP)**, building scalab
 ## 🚀 Featured Projects
 
 ### 🐍 [Python Core Basics](https://github.com/abdulrahman2015issa-dev/Python-Core-Basics)
-A comprehensive repository covering the fundamental building blocks of Python. 
+A comprehensive repository covering the fundamental building blocks of Python.
 - **Focus:** Basic Syntax, Data Types, and Logic Implementation.
 - **Goal:** Building a solid foundation for advanced backend development.
 
