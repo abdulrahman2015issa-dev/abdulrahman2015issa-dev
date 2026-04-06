@@ -4,6 +4,14 @@
   <img src="https://raw.githubusercontent.com/abdulrahman2015issa-dev/pic/main/648369951_4492454057692513_9031971364469998554_n.png" width="100%" alt="Abdulrahman Issa Banner">
   <br>
   <h1>Abdulrahman Issa</h1>
+  
+  <a href="mailto:abdulrahman2015issa@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulrahman-issa-b080773a7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
   <p><i>"Crafting Scalable Backend Logic & Seamless Frontend Experiences"</i></p>
 </div>
 
